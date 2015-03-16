@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "James Downs",
+    "longName": "Rocket",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/logobw.png",
+                "menuIcon": true,
+                "name": "LOGO",
+                "type": "png"
+            },
+            {
+                "file": "images/rocketbw.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Rocket",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "7815997e-6577-4070-bd0b-7425238958c4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
